@@ -1,1 +1,1 @@
-# webdevelopermrx.github.io
+# mrxacademy.github.io
